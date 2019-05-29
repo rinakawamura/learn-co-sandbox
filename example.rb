@@ -5,6 +5,6 @@ class Animal
   end
  
   def say_species
-    puts "Hi! I'm a #{my_species}"
+    puts "Hi! I'm a #{@my_species}"
   end
 end
